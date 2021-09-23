@@ -9,3 +9,5 @@ repository for implementations that collect twitter data
 > 
 > https://developer.twitter.com/en/docs/twitter-api/v1/tweets/timelines/api-reference/get-statuses-user_timeline
 
+### streaming_twitter.py
+> Collects data linked to a hashtag with a specific language in real time
