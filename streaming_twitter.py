@@ -74,4 +74,4 @@ def capturar():
 
   #imprime apenas o nome do usuario e seu texto
 
-capturar
+capturar()
